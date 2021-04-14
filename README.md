@@ -8,4 +8,5 @@
 ![a photo of the algorithm](algorithm-in-action.png)
 
 ## Dependencies 
-SDL, was used to draw the points, you can edit the library
+SDL, was used to draw the points, the CMakeLists.txt Assumes it was installed in the standard unix path (/usr/local/lib) as well as the headers are inside (/usr/local/include)
+you may edit the CMakeLists.txt otherwise
